@@ -1,0 +1,230 @@
+12-06-2019
+Paris
+France
+Europe
+11:45
+12-06-2019
+7h 52m
+Air France
+645.00
+FR1711
+London
+United Kingdom
+Europe
+13:30
+12-06-2019
+7h 12m
+British Airways
+345.50
+FR1680
+Paris
+France
+Europe
+13:30
+12-06-2019
+7h 32m
+American
+705.00
+FR1661
+New York
+U.S.A
+North America
+14:55
+12-06-2019
+3h 23m
+Delta
+105.00
+FR1651
+New York
+U.S.A
+North America
+20:35
+12-06-2019
+3h 38m
+United
+135.00
+FR1031
+12-07-2019
+Berlin
+Germany
+Europe
+11:45
+12-07-2019
+8h 00m
+Delta
+234.00
+FR1099
+London
+United Kingdom
+Europe
+13:30
+12-07-2019
+7h 12m
+American
+434.00
+FR1783
+Paris
+France
+Europe
+6:30
+12-07-2019
+7h 52m
+Air France
+234.00
+FR1225
+Chicago
+U.S.A
+North America
+15:20
+12-07-2019
+2h 55m
+Delta
+95.00
+FR1075
+New York
+U.S.A
+North America
+18:30
+12-07-2019
+3h 35m
+United
+103.00
+FR9677
+12-08-2019
+New York
+U.S.A
+North America
+5:30
+12-08-2019
+3h 38m
+Spirit
+93.00
+FR0834
+Los Angeles
+U.S.A
+North America
+7:40
+12-08-2019
+3h 3m
+Spirit
+63.00
+FR6731
+Berlin
+Germany
+Europe
+12:15
+12-08-2019
+10h 00m
+Lufthansa
+834.00
+FR3319
+Los Angeles
+U.S.A
+North America
+12:40
+12-08-2019
+3h 13m
+Southwest
+79.00
+FR2111
+London
+United Kingdom
+Europe
+23:30
+12-08-2019
+10h 11m
+Lufthansa
+934.00
+FR9091
+12-09-2019
+Los Angeles
+U.S.A
+North America
+5:55
+12-09-2019
+3h 33m
+Alaska
+64.00
+FR0591
+New York
+U.S.A
+North America
+6:40
+12-09-2019
+3h 38m
+Spirit
+108.00
+FR3434
+Chicago
+U.S.A
+North America
+14:25
+12-09-2019
+3h 00m
+Delta
+60.00
+FR5035
+Berlin
+Germany
+Europe
+16:37
+12-09-2019
+11h 02m
+Lufthansa
+991.00
+FR0419
+New York
+U.S.A
+North America
+22:20
+12-09-2019
+3h 40m
+United
+111.00
+FR4421
+12-10-2019
+Berlin
+Germany
+Europe
+5:37
+12-10-2019
+14 12m
+Lufthansa
+1091.00
+FR0092
+New York
+U.S.A
+North America
+7:40
+12-10-2019
+3h 28m
+United
+198.00
+FR9899
+Chicago
+U.S.A
+North America
+8:25
+12-10-2019
+3h 10m
+Alaska
+66.00
+FR0839
+Los Angeles
+U.S.A
+North America
+20:30
+12-10-2019
+3h 30m
+Alaska
+71.00
+FR1992
+Paris
+France
+Europe
+23:40
+12-10-2019
+9h 52m
+American
+1034.00
+FR1011
